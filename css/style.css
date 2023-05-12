@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster+Two:ital@1&display=swap');
+
+.heading{
+    height: 50vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #000;
+}
+.heading-box{
+    width: 900px;
+}
+.heading-title{
+    color: #fff;
+    text-align: center;
+    font-size: 105px;
+    font-family: 'Lobster Two';
+}
+
+.player-list{
+    background: #000;
+}
+
+.inpute-bg{
+    background: transparent;
+    border:  1px solid  white;
+   color: #fff;
+}
+
+.list-item li{
+    list-style-type:none;
+}
+
+.fodder-box{
+    width: 100%;
+    height: 200px;
+    margin-top: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    background-color: #000;
+    border-top: 1px solid #fff;
+}
